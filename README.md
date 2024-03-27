@@ -1,14 +1,31 @@
-### **Name**: Julius Kinyua Njeri
+<h1 style="text-align: center;"> Microsoft Movie Studio Data Analysis Project </h1>
 
-### **Project**: Phase 1 Project: Microsoft Movie Studio Data Analysis Project
+<div style="text-align: center;">
 
-![Microsoft](https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?w=533)
+**Name**: Julius Kinyua Njeri
 
-# Project Description
+**Project**: Phase 1 Project
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+**TM**: Lucille Kaleha && Asha Deen
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif)
+**Submission Date**: March 2024
+<br>
+
+<img src="https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?w=533">
+
+</div>
+
+<!-- [Microsoft](https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?w=533) -->
+
+<br><br>
+
+<h1 style="text-align: center;"> Project Description </h1>
+
+<div style="text-align: center;">
+You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness! <br><br>
+
+<img src="https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif">
+</div>
 
 Now you will put your new skills to use with a large end-of-Phase project!
 
